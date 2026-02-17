@@ -1,0 +1,8 @@
+# Datin API Code Owners
+# These owners will be requested for review when someone opens a pull request.
+
+*                           @datin-platform/backend-team
+/src/routes/**              @datin-platform/api-team
+/src/middleware/**          @datin-platform/backend-team
+/.github/**                 @datin-platform/devops-team
+/Dockerfile                 @datin-platform/devops-team
